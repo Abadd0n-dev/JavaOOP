@@ -2,7 +2,7 @@ package Lesson3;
 
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {32, 455, 435, 41, 10, 22};
+        int[] arr = {123, 455, 214, 831, 10, 22};
 
         Task2 list = new Task2();
 		list.Add(4);
@@ -15,7 +15,7 @@ public class Main {
 		}
 
 		System.out.println();
-		System.out.println(list.Get(23));
+		System.out.println(list.Get(3));
 	}
 }
 
