@@ -1,4 +1,4 @@
-package ru.chepelash.gb2022.javaoop.homework5.calculator.components;
+package Lesson5.calculator.components;
 
 public class BasicModel implements Model{
     private int first;

@@ -1,8 +1,8 @@
-package ru.chepelash.gb2022.javaoop.homework5.calculator;
+package Lesson5.calculator;
 
-import ru.chepelash.gb2022.javaoop.homework5.calculator.components.Model;
-import ru.chepelash.gb2022.javaoop.homework5.calculator.components.Presenter;
-import ru.chepelash.gb2022.javaoop.homework5.calculator.components.View;
+import Lesson5.calculator.components.Model;
+import Lesson5.calculator.components.Presenter;
+import Lesson5.calculator.components.View;
 
 public class Calculator {
     private final View view;

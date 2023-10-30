@@ -1,4 +1,4 @@
-package ru.chepelash.gb2022.javaoop.homework5.calculator;
+package Lesson5.calculator;
 
 import java.io.*;
 import java.net.ServerSocket;

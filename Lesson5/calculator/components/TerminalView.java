@@ -1,4 +1,4 @@
-package ru.chepelash.gb2022.javaoop.homework5.calculator.components;
+package Lesson5.calculator.components;
 
 import java.io.PrintStream;
 import java.util.Scanner;
